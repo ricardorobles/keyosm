@@ -15,7 +15,7 @@
 
 
 
-osmkey <- function(capa,key,tipo){
+keyosm <- function(capa,key,tipo){
 
   library(sf)
   library(tidyverse)
